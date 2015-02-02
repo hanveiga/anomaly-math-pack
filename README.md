@@ -1,4 +1,4 @@
-anomaly-math-pack
+Performing anomaly detection
 =================
 
 A set of scripts developed from various papers on anomaly detection.
